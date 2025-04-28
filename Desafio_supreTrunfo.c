@@ -5,7 +5,7 @@ int main(){
    //Declaração da carta 1
 
    int NomedaCidade1;
-   int Populacao1 = 12.300;
+   int Populacao1 = 6.300;
    char CodigodaCarta1;
    char Estado1;
    float Area1;
@@ -29,7 +29,7 @@ int main(){
       printf("Resulatado: Brasilia venceu! \n");
    }
     else if ("Populacao1 < Populacao2"){
-   
+      
    printf("Resultado: SaoPaulo venceu!\n");
 } else{
    printf("Resultado: Empate!\n");
